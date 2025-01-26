@@ -307,4 +307,4 @@ chmod +x rClient-latest.AppImage
 
 #
 
-> Akabinde rivalz'da LOYALTY NFTs kısmını yapmayı unutmayın mintlein 10 NFT'yi.
+> Akabinde rivalz'da LOYALTY NFTs kısmını yapmayı unutmayın ve 10 NFT'yi mint edin.
